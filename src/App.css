@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App-footer {
+  background-color: #17191d;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(2px + 2vmin);
+  color: white;
+}
